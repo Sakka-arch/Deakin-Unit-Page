@@ -19,14 +19,16 @@ h1 {
 .subtitle {
   text-align: center;
   color: #555;
-  margin: 20px;
+  margin: 20px auto;
+  width: 60%;
   font-size: 16px;
 }
 
 /* Section title */
 h2 {
-  margin-left: 40px;
+  text-align: center;
   color: #333;
+  margin-top: 30px;
 }
 
 /* Table styling */
